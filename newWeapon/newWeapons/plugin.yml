@@ -1,0 +1,19 @@
+name: newweapon
+version: 1.0
+api-version: 1.17
+author: hkquiet
+main: src.coms.mains.Main
+description: a newweapon
+commands:
+  getbow:
+    description: get a Unlimited Bow
+    usage: /getbow
+    aliases: [getbow]
+  fly:
+    description: allow you to fly
+    usage: /fly
+    aliases: [fly]
+  getwitherlordarmor:
+    description: get WitherLord Armor
+    usage: /getwitherlordarmor
+    aliases: [getwitherlordarmor]
